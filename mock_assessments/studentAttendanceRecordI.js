@@ -45,7 +45,6 @@ var checkRecord = function(s) {
             l++
         }
     }
-    console.log(a,l)
     if(a < 2 && l < 1){
         return true
     } else {
